@@ -110,7 +110,7 @@
 <body>
 
   <header>
-    <h1>🚀 Akash Waghmare Courses</h1>
+    <h1>🚀 vishwajeet kore clasess for data management (excel king)</h1>
     <p>Upgrade your career with our industry-ready training programs</p>
   </header>
 
