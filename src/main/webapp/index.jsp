@@ -110,7 +110,7 @@
 <body>
 
   <header>
-    <h1>🚀 Akash It cources (excel king)</h1>
+    <h1>🚀 Akash It cources </h1>
     <p>Upgrade your career with our industry-ready training programs</p>
   </header>
 
